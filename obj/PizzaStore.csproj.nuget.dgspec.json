@@ -1,25 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/mnt/c/Users/Shuhao/Desktop/sz/DotnetProjects/PizzaStore/PizzaStore/PizzaStore.csproj": {}
+    "C:\\Users\\Shuhao\\Desktop\\sz\\DotnetProjects\\PizzaStore\\PizzaStore.csproj": {}
   },
   "projects": {
-    "/mnt/c/Users/Shuhao/Desktop/sz/DotnetProjects/PizzaStore/PizzaStore/PizzaStore.csproj": {
+    "C:\\Users\\Shuhao\\Desktop\\sz\\DotnetProjects\\PizzaStore\\PizzaStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/c/Users/Shuhao/Desktop/sz/DotnetProjects/PizzaStore/PizzaStore/PizzaStore.csproj",
+        "projectUniqueName": "C:\\Users\\Shuhao\\Desktop\\sz\\DotnetProjects\\PizzaStore\\PizzaStore.csproj",
         "projectName": "PizzaStore",
-        "projectPath": "/mnt/c/Users/Shuhao/Desktop/sz/DotnetProjects/PizzaStore/PizzaStore/PizzaStore.csproj",
-        "packagesPath": "/home/shuhaozhang/.nuget/packages/",
-        "outputPath": "/mnt/c/Users/Shuhao/Desktop/sz/DotnetProjects/PizzaStore/PizzaStore/obj/",
+        "projectPath": "C:\\Users\\Shuhao\\Desktop\\sz\\DotnetProjects\\PizzaStore\\PizzaStore.csproj",
+        "packagesPath": "C:\\Users\\Shuhao\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Shuhao\\Desktop\\sz\\DotnetProjects\\PizzaStore\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/home/shuhaozhang/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Shuhao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -37,6 +42,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -55,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
