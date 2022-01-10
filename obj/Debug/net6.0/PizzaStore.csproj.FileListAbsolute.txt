@@ -25,3 +25,6 @@ C:\Users\Shuhao\Desktop\sz\DotnetProjects\PizzaStore\bin\Debug\net6.0\Swashbuckl
 C:\Users\Shuhao\Desktop\sz\DotnetProjects\PizzaStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Shuhao\Desktop\sz\DotnetProjects\PizzaStore\obj\Debug\net6.0\PizzaStore.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Shuhao\Desktop\sz\DotnetProjects\PizzaStore\obj\Debug\net6.0\PizzaStore.csproj.CopyComplete
+C:\Users\Shuhao\Desktop\sz\DotnetProjects\PizzaStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Shuhao\Desktop\sz\DotnetProjects\PizzaStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Shuhao\Desktop\sz\DotnetProjects\PizzaStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
